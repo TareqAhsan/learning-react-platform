@@ -6,7 +6,9 @@ This project was bootstrapped with [piano-school](https://piano-school-e56769ian
 
 In the project directory, you can run:
 npm install react-bootstrap@next bootstrap@5.1.1
+
 npm install react-router-dom
+
 ### `npm start`
 
 Runs the app in the development mode.\
