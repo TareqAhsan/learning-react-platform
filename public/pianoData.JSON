@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Regular course",
+    "id": 1,
+    "price": 10000,
+    "services": "3 months; 3 days/week",
+    "description": "Piano lessons. Two words capable of striking fear into the heart of any child who’d much rather be playing football or hanging out with friends than struggling through a fumbling rendition of Frere Jacques in the foreboding presence of a stern-faced music teache,",
+    "img": "https://media.istockphoto.com/photos/he-really-enjoys-playing-the-piano-picture-id1301439803?b=1&k=20&m=1301439803&s=170667a&w=0&h=vTULXcZeEIfBb5BZ0aLefC8vuLhzmcy_i4cVyW6APZo=",
+    "color": "black",
+    "cc": "6000"
+  },
+  {
+    "name": "Executive course",
+    "id": 2,
+    "price": 4000,
+    "services": "3 months; Fri-Sat",
+    "description": "Piano lessons. Two words capable of striking fear into the heart of any child who’d much rather be playing football or hanging out with friends than struggling through a fumbling rendition of Frere Jacques in the foreboding presence of a stern-faced music teache,",
+    "img": "https://media.istockphoto.com/photos/high-angle-view-of-a-pianist-playing-piano-picture-id1182703539?b=1&k=20&m=1182703539&s=170667a&w=0&h=xKjURHOIjPyH78oDOvkVgJGX5zDULfns2R7Wn7zY30g=",
+    "color": "white",
+    "cc": "4000"
+  },
+  {
+    "name": "Crash course",
+    "id": 3,
+    "price": 35000,
+    "services": "1 month; 4 days/week",
+    "description": "Piano lessons. Two words capable of striking fear into the heart of any child who’d much rather be playing football or hanging out with friends than struggling through a fumbling rendition of Frere Jacques in the foreboding presence of a stern-faced music teache,",
+    "img": "https://media.istockphoto.com/photos/teaching-to-play-music-picture-id928088742?b=1&k=20&m=928088742&s=170667a&w=0&h=_pulbzI57FddBPPJCGcsoncihhMP9hE8MvbjUuZskng=",
+    "color": "red",
+    "cc": "7000"
+  },
+  {
+    "name": "Special course",
+    "price": 15000,
+    "id": 4,
+    "services": "3 months; Fri-thursday",
+    "description": "Piano lessons. Two words capable of striking fear into the heart of any child who’d much rather be playing football or hanging out with friends than struggling through a fumbling rendition of Frere Jacques in the foreboding presence of a stern-faced music teache,",
+    "img": "https://images.unsplash.com/photo-1540593463874-59835505e99d?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8cGlhbm8lMjBzY2hvb2x8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+    "color": "yellow",
+    "cc": "10000"
+  },
+  {
+    "name": "super-Special course",
+    "price": 20000,
+    "id": 5,
+    "services": "4 months; Fri-mon",
+    "description": "Piano lessons. Two words capable of striking fear into the heart of any child who’d much rather be playing football or hanging out with friends than struggling through a fumbling rendition of Frere Jacques in the foreboding presence of a stern-faced music teache,",
+    "img": "https://images.unsplash.com/photo-1575314113965-c6672a42b99c?ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8cGlhbm8lMjBzY2hvb2x8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+    "color": "yellow",
+    "cc": "10000"
+  },
+  {
+    "name": "day-care",
+    "price": 26000,
+    "id": 6,
+    "services": "5 months; Fri-thursday",
+    "description": "Piano lessons. Two words capable of striking fear into the heart of any child who’d much rather be playing football or hanging out with friends than struggling through a fumbling rendition of Frere Jacques in the foreboding presence of a stern-faced music teache,",
+    "img": "https://images.unsplash.com/photo-1609196595770-10faedf23b7a?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8cGlhbm8lMjBzY2hvb2x8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+    "color": "yellow",
+    "cc": "10000"
+  },
+  {
+    "name": "long special course",
+    "price": 150000,
+    "id": 7,
+    "services": "8 months; Fri-thursday",
+    "description": "Piano lessons. Two words capable of striking fear into the heart of any child who’d much rather be playing football or hanging out with friends than struggling through a fumbling rendition of Frere Jacques in the foreboding presence of a stern-faced music teache,",
+    "img": "https://images.unsplash.com/photo-1599912664816-e1726bdee8f3?ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8cGlhbm8lMjBzY2hvb2x8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+    "color": "yellow",
+    "cc": "10000"
+  },
+  {
+    "name": "zero to hero course",
+    "price": 220000,
+    "id": 8,
+    "services": "9 months; Fri-thursday",
+    "description": "Piano lessons. Two words capable of striking fear into the heart of any child who’d much rather be playing football or hanging out with friends than struggling through a fumbling rendition of Frere Jacques in the foreboding presence of a stern-faced music teache,",
+    "img": "https://images.unsplash.com/photo-1475275166152-f1e8005f9854?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fHBpYW5vJTIwc2Nob29sfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+    "color": "yellow",
+    "cc": "10000"
+  },
+  {
+    "name": "Special",
+    "price": 15000,
+    "id": 9,
+    "services": "6 months; Fri-thursday",
+    "description": "Piano lessons. Two words capable of striking fear into the heart of any child who’d much rather be playing football or hanging out with friends than struggling through a fumbling rendition of Frere Jacques in the foreboding presence of a stern-faced music teache,",
+    "img": "https://images.unsplash.com/photo-1519076976365-9c64dbd98317?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTd8fHBpYW5vJTIwc2Nob29sfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+    "color": "yellow",
+    "cc": "10000"
+  },
+  {
+    "name": "long-term course",
+    "price": 15000,
+    "id": 10,
+    "services": "7 months; Fri-thursday",
+    "description": "Piano lessons. Two words capable of striking fear into the heart of any child who’d much rather be playing football or hanging out with friends than struggling through a fumbling rendition of Frere Jacques in the foreboding presence of a stern-faced music teache,",
+    "img": "https://media.istockphoto.com/photos/teaching-to-play-music-in-orchestra-picture-id928685744?b=1&k=20&m=928685744&s=170667a&w=0&h=EF5eiAzumfFhbtzWFYJZbvfb8IM2e9SNVk441aQ6yuc=",
+    "color": "yellow",
+    "cc": "10000"
+  },
+  {
+    "name": "professional course",
+    "price": 35000,
+    "id": 11,
+    "services": "3 months; Fri-thursday",
+    "description": "Piano lessons. Two words capable of striking fear into the heart of any child who’d much rather be playing football or hanging out with friends than struggling through a fumbling rendition of Frere Jacques in the foreboding presence of a stern-faced music teache,",
+    "img": "https://media.istockphoto.com/photos/violin-on-piano-keyboard-picture-id486129042?b=1&k=20&m=486129042&s=170667a&w=0&h=aEU5-QAh_54qtN3Y8i4CfkAufEMsAjvdH9LiFUjteQo=",
+    "color": "yellow",
+    "cc": "10000"
+  }
+]
