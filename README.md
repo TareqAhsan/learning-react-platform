@@ -1,11 +1,12 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://piano-school-e56769iano.netlify.app/).
 
 ## Available Scripts
 
 In the project directory, you can run:
-
+npm install react-bootstrap@next bootstrap@5.1.1
+npm install react-router-dom
 ### `npm start`
 
 Runs the app in the development mode.\
