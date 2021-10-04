@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://piano-school-e56769iano.netlify.app/).
+This project was bootstrapped with [piano-school](https://piano-school-e56769iano.netlify.app/).
 
 ## Available Scripts
 
